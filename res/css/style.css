@@ -1,0 +1,41 @@
+body { background-image: url(https://paulmason.name/media/demos/full-screen-background-image/background.jpg)
+    
+}
+
+
+.hedhom{
+    color: black;
+    background-image: url(https://freefrontend.com/assets/img/css-background-patterns/striped-background.png)
+    
+}
+.hedhi:focus{
+    background-color: darkgray
+    color: azure;
+}
+p:hover{color: blue;
+    background-color: brown
+
+
+}
+#www:hover{color: aqua;
+    background-color: black
+ }
+ h1{
+     background-color: cornsilk;
+     text-align: center;
+     margin: 2cm 
+ }
+ h2:hover{
+     background-color: palegoldenrod
+ }
+ img{
+     margin: 119px
+ }
+ button{
+     background-color: chartreuse
+ }
+ a{
+     color: deeppink
+ }
+
+    
